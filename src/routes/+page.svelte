@@ -1,5 +1,5 @@
 <script>
-    // Script
+    import SmallCubes from '$lib/SmallCubes.svelte';
 </script>
  
 <!-- Head -->
@@ -26,8 +26,16 @@
             </div>
         </div>
     </div>
+    
     <div class="flex justify-center">
         <h1 class="text-3xl font-bold text-primary">0xKyran</h1>
+    </div>
+
+    <!-- Small Rotating Cubes -->
+    <div class="flex justify-center space-x-4">
+        <div class="mx-2"><SmallCubes rotationOffset={0} /></div>
+        <div class="mx-2"><SmallCubes rotationOffset={Math.PI / 4} /></div>
+        <div class="mx-2"><SmallCubes rotationOffset={0} /></div>
     </div>
 
     <!-- Links to Categories -->
