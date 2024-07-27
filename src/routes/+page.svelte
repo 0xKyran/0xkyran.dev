@@ -5,15 +5,7 @@
 <!-- Head -->
 <svelte:head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>0xKyran.dev</title>
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="0xKyran.dev">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://0xkyran.dev/">
-    <meta property="og:image" content="https://0xkyran.dev/banner.png">
-    <meta property="og:description" content="Blockchain developer focusing on decentralized infrastructure and availability. With a focus on blockchain and architecture.">
-    <meta property="og:site_name" content="0xKyran">
 </svelte:head>
 
 
