@@ -14,7 +14,7 @@
     <div class="flex justify-center">
         <div class="avatar">
             <div class="w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                <img src="/pfp.png" alt="pfp"/>
+                <img src="/pfp.webp" alt="pfp"/>
             </div>
         </div>
     </div>
