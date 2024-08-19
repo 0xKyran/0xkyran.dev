@@ -20,7 +20,7 @@
     </div>
     
     <div class="flex justify-center">
-        <h1 class="text-3xl font-bold text-primary">0xKyran</h1>
+        <h1 class="text-3xl font-bold text-primary">0xKyran.dev</h1>
     </div>
 
     <!-- Small Rotating Cubes -->
