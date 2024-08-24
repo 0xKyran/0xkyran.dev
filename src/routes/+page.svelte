@@ -45,7 +45,7 @@
         </div>
         <div class="mockup-browser-content p-4 space-y-4">
             <pre data-prefix="// " class="text-neutral"><code>AboutMe.md</code></pre>
-            <p>Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentralized infrastructure and availability. With a focus on blockchain and architecture, I strive to bring together the power of decentralized technology and efficiency.</p>
+            <p>Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentralized infrastructure and availability. I strive to bring together the power of decentralized technology and efficiency.</p>
             <p>I'm always eager to explore and learn new technologies and tooling, especially in the areas of AI and blockchain. My interests in crypto extend to tokenization, DeFi, and exploring the potential of blockchain technologies in various domains. I'm dedicated to contributing to the advancement of the blockchain ecosystem.</p>
             <p>Being well-versed in Blockchain and DevOps, I have the skill set to architect and deploy blockchain solutions while ensuring efficient and reliable operations. I'm proficient in managing infrastructure, optimizing performance, and leveraging cutting-edge technologies.</p>
             <p>Let's connect and explore the decentralized future!</p>
