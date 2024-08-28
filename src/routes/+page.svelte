@@ -126,7 +126,9 @@
                     <div class="mockup-browser-content p-4">
                         <pre data-prefix="> "><code>Docker</code></pre>
                         <pre data-prefix="> " class="text-info"><code>NIX</code></pre>
+                        <pre data-prefix="> "><code>SvelteKit</code></pre>
                         <pre data-prefix="> "><code>Mullvad VPN</code></pre>
+                        <pre data-prefix="> "><code>Kagi</code></pre>
                     </div>
                 </div>
             </div>
@@ -182,4 +184,5 @@ main {
 .mockup-browser .title {
     padding-left: 1rem;
 }
+
 </style>
